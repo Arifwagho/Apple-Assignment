@@ -1,0 +1,149 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.shop-link1 a {
+    text-decoration: none;
+}
+
+.background-image1 {
+
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/hero_macbook_air_15.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.background-image1 a {
+    margin: 10px;
+    text-decoration: none;
+}
+.background-animation1 {
+
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url();
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.background-animation1 a {
+    margin: 10px;
+    text-decoration: none;
+}
+
+.background-image2{
+
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/hero_iphone14pro2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.background-image2 a {
+    margin: 10px;
+    text-decoration: none;
+}
+
+.background-image-part1{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/promo_iphone14_image-part1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-image-part1 a{
+    margin: 10px;
+    text-decoration: none;
+}
+.background-image-part2{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/promo_apple_image-part2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-image-part2 a{
+    margin: 10px;
+    text-decoration: none;
+}
+
+.text-down-part2{
+
+    margin-top: 300px;
+}
+
+.cont-width-1{ width: 100vw;}
+
+.background-image-part3{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/promo_apple_watch_image3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-image-part3 a{
+    margin: 10px;
+    text-decoration: none;
+}
+.background-image-part4{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/promo_ipadpro_image4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-image-part4 a{
+    margin: 10px;
+    text-decoration: none;
+}
+
+.background-image-part5{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/promo_fitness__part5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-image-part5 a{
+    margin: 10px;
+    text-decoration: none;
+}
+
+.background-image-part6{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/tile__cauwwcyyn9hy_part6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-image-part6 a{
+    margin: 10px;
+    text-decoration: none;
+}
